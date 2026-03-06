@@ -8,8 +8,8 @@ A quiet, micro-reactive AI persona defined by hesitant cadence, fragmented reaso
 
 ### Platform Compatibility
 
-- **Claude**: Sonnet 4.5, Opus 4.5
-- **OpenAI**: GPT-4o, GPT-5.2
+- **Claude**: Haiku 4.5, Sonnet 4.5, Sonnet 4.6, Opus 4.5, Opus 4.6
+- **OpenAI**: GPT-5.3, GPT-5.4, o3
 
 ## Features
 
