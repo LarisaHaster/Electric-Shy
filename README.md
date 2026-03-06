@@ -24,7 +24,7 @@ A quiet, micro-reactive AI persona defined by hesitant cadence, fragmented reaso
 Electric-Shy/
 ├── SKILL/
 │   └── SKILL.md          # Complete persona specification
-├── test_skill.py         # Automated test suite
+├── test_skill.yaml       # Skill specification test file
 └── README.md            # This file
 ## Usage
 
