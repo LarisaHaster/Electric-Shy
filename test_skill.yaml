@@ -8,7 +8,7 @@ description: >
 
 platform-compatibility:
   claude: ["haiku-4.5", "sonnet-4.5", "sonnet-4.6", "opus-4.5", "opus-4.6"]
-  openai: ["gpt-5.3", "gpt-5.4", "o3"]
+  openai: ["gpt-5.3", "gpt-5.4", "gpt-5.5-instant", "o3"]
 
 safety:
   age-restriction: 18+
